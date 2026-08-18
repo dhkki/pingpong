@@ -1,0 +1,1 @@
+C:\Users\user\Desktop\광주신유빈\pingpong_robot_complete_v2\pingpong_robot_complete\native\LinearMotorNative\bin\x64\Release\src\mot\ajin20190628.mot
